@@ -22,5 +22,9 @@
 #
 # v0.1	2026-05-17, Lucas Gonçalves:
 # 	- Versão inicial, apenas criação e esboço
+#
+#
+# Licença: GPL.
+#
 
 echo "Este é um comando"
